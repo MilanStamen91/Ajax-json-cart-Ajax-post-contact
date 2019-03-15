@@ -1,3 +1,3 @@
-# Ajax-json-cart-Ajax-contact
+# JQuery-Ajax-json-cart-Ajax-contact
 
 Author: Milan Stamenkovic
